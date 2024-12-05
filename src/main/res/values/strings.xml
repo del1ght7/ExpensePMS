@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Expense</string>
+
+
+
+    <string-array name="filter_options">
+        <item>Все расходы</item>
+        <item>По дате</item>
+        <item>По категории</item>
+    </string-array>
+
+    <string-array name="sort_options">
+        <item>По возрастанию суммы</item>
+        <item>По убыванию суммы</item>
+        <item>По алфавиту</item>
+    </string-array>
+
+</resources>
